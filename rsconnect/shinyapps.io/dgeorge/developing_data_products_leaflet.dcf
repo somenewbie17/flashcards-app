@@ -1,0 +1,10 @@
+name: developing_data_products_leaflet
+title:
+username: dgeorge
+account: dgeorge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14729244
+bundleId: 10263495
+url: https://dgeorge.shinyapps.io/developing_data_products_leaflet/
+version: 1
